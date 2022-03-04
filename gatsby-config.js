@@ -151,5 +151,6 @@ module.exports = {
           origin: "YOUR_SELF_HOSTED_ORIGIN",
         },
       },
+    }
   ],
 }
